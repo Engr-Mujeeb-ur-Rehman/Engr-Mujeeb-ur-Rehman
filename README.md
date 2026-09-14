@@ -46,8 +46,6 @@
 | **Raasta — Smart City Navigation** | Interactive traffic navigation application using Dijkstra's algorithm for pathfinding and real-time transit routing | React.js, Leaflet.js, C++ |
 | **SPECK32/64 Cipher & RISC-V Core** | Hardware implementation of a lightweight block cipher and a single-cycle RISC-V processor with verification testbenches | SystemVerilog, Computer Architecture |
 | **Lahore Public Transit Tracker** | Live transit fleet architecture integrating OpenStreetMap and driver GPS streams for Speedo and Green buses | OpenStreetMap, GPS, Mobile Architecture |
-| **Java Console Pac-Man** | Terminal-based object-oriented arcade engine with dynamic map rendering, player movement, and collision detection | Java, OOP |
-| **Shadi Bazar Relational Schema** | Comprehensive 3NF relational database schema and ERD architecture for a vendor marketplace application | MySQL, Database Systems |
 
 <br/>
 
