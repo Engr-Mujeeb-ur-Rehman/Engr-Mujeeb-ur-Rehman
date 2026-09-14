@@ -1,24 +1,87 @@
-# 💫 About Me:
-Hi there, I'm Mujeeb ur Rehman! <br>I'm a Computer Engineering undergraduate at UET Lahore with a strong passion for bridging the gap between software and hardware. My work spans across embedded systems, algorithm design, full-stack development, and digital logic design.<br>Whether it's writing a lightweight cipher in SystemVerilog, building a traffic navigation system with React and C++, or scripting Linux automation workflows, I love tackling complex engineering problems.
+## 🎯 About Me
+***
 
+- 🎓 Undergraduate student in Computer Engineering at University of Engineering and Technology (UET) Lahore
+- 🔬 Hardware Trainee & Researcher at MEDS Lab Research Center
+- 💻 Building across the hardware-software stack, specializing in digital logic design, embedded peripherals, and systems programming
+- 🌐 Developing high-performance routing engines and transit data architectures
+- 📌 Interests: Computer architecture, RISC-V microarchitectures, digital system design, full-stack systems, and graph algorithms
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1EutYnQg6H/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mujeeb_27) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/engi-mujeeb-ur-rehman-uet?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mujeeb2722005@gmail.com) 
+<br/>
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=plastic&logo=assemblyscript&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Engr-Mujeeb-ur-Rehman&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Engr-Mujeeb-ur-Rehman&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Engr-Mujeeb-ur-Rehman&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 💡 Currently Working On
+***
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Engr-Mujeeb-ur-Rehman&theme=gruvbox_light&no-frame=false&no-bg=false&margin-w=4)
+| Focus | Work |
+| :--- | :--- |
+| **MEDS RISC-V Peripheral Subsystem** | Designing synthesizable AXI4-Lite GPIO & Timer RTL with edge-detecting interrupt logic |
+| **Urban Transit Tracking** | Live GPS tracking architecture for Lahore Speedo & Electric Green bus networks |
+| **Graph-Based Route Optimization** | Algorithmic pathfinding and route performance tuning using Dijkstra's algorithm |
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+<br/>
 
----
-[![](https://komarev.com/ghpvc/?username=Engr-Mujeeb-ur-Rehman&icon=2&color=2)](https://visitcount.itsvg.in)
+## 🛠 Tech Stack
+***
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,py,cs,react,flutter,html,css,js,mysql,linux,bash,git,github,vscode" alt="Tech Stack Icons" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/SystemVerilog-002B36?style=for-the-badge&logo=systemverilog&logoColor=white" alt="SystemVerilog" />
+  <img src="https://img.shields.io/badge/RISC--V-D43D27?style=for-the-badge&logo=riscv&logoColor=white" alt="RISC-V" />
+  <img src="https://img.shields.io/badge/Proteus%20ISIS-00599C?style=for-the-badge&logo=circuits&logoColor=white" alt="Proteus ISIS" />
+  <img src="https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Workbench" />
+  <img src="https://img.shields.io/badge/Makefiles-427819?style=for-the-badge&logo=gnu&logoColor=white" alt="Makefiles" />
+</p>
+
+<br/>
+
+## 📁 Featured Projects
+***
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **MEDS RISC-V Peripherals (M-03)** | Gate-level datapath, loadable adder-comparator timer, and edge-detecting GPIO peripheral architecture in synthesizable RTL | SystemVerilog, RISC-V, Digital Design |
+| **Raasta — Smart City Navigation** | Interactive traffic navigation application using Dijkstra's algorithm for pathfinding and real-time transit routing | React.js, Leaflet.js, C++ |
+| **SPECK32/64 Cipher & RISC-V Core** | Hardware implementation of a lightweight block cipher and a single-cycle RISC-V processor with verification testbenches | SystemVerilog, Computer Architecture |
+| **Lahore Public Transit Tracker** | Live transit fleet architecture integrating OpenStreetMap and driver GPS streams for Speedo and Green buses | OpenStreetMap, GPS, Mobile Architecture |
+| **Java Console Pac-Man** | Terminal-based object-oriented arcade engine with dynamic map rendering, player movement, and collision detection | Java, OOP |
+| **Shadi Bazar Relational Schema** | Comprehensive 3NF relational database schema and ERD architecture for a vendor marketplace application | MySQL, Database Systems |
+
+<br/>
+
+## 📊 GitHub Snapshot
+***
+
+| Profile | Languages |
+| :--- | :--- |
+| Computer Engineering undergraduate focused on computer architecture, hardware design, and systems programming. | C++, SystemVerilog, Java, Python, C#, Assembly (RISC-V, x86), SQL, Bash |
+
+<p align="center">
+  <a href="https://github.com/Mujeeb2722005?tab=repositories">
+    <img src="https://img.shields.io/badge/VIEW%20REPOSITORIES-000000?style=for-the-badge&logo=github&logoColor=white" alt="View Repositories" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Mujeeb2722005&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
+
+<br/>
+
+## 🔗 Connect
+***
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Mujeeb2722005">
+    <img src="https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  Open to collaboration on embedded systems, computer architecture, digital logic, and full-stack engineering projects.
+</p>
